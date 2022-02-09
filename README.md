@@ -1,6 +1,5 @@
 # PythonEncryption
 encryption desktop application built with python
-Hello to all 
 all you need to run this application :
 1) download the .py file 
 2) open cmd 
