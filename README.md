@@ -1,6 +1,6 @@
 # PythonEncryption
-0)encryption desktop application built with python
-AYN)all you need to run this application :
+encryption desktop application built with python 
+all you need to run this application :
 1) download the .py file 
 2) open cmd 
 3) import numpy and sympy modules , using 'pip install numpy' and 'pip install sympy' commands.
