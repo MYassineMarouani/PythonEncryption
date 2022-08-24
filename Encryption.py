@@ -1,4 +1,3 @@
-# NB : tout ce code est faite ligne par ligne par Mohamed Yassine Marouani
 # objet du programme : cryptage de hill
 from tkinter import *
 from math import *
